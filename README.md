@@ -26,8 +26,8 @@ A **powerful and minimal command-line expense tracker** built with pure **Node.j
 Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/expense-tracker-cli.git
-cd expense-tracker-cli
+git clone https://github.com/darshan-dhakal/expense_tracker
+cd expense_tracker
 ```
 
 Make the script executable (optional on macOS/Linux):
