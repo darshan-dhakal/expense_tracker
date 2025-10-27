@@ -1,7 +1,9 @@
 # 💰 Expense Tracker CLI (Node.js)
 
 A **powerful and minimal command-line expense tracker** built with pure **Node.js**, designed to help you take control of your finances directly from the terminal. Add, update, delete, and analyze your expenses — no database setup, no external dependencies, just you and your budget.
-🔗 Project URL: https://github.com//expense-tracker-cli
+
+🔗 **GitHub Repository:** [https://github.com/<your-username>/expense-tracker-cli](https://github.com/<your-username>/expense-tracker-cli)
+🌐 **Project Page:** [https://<your-username>.github.io/expense-tracker-cli](https://<your-username>.github.io/expense-tracker-cli)
 
 ---
 
@@ -109,41 +111,5 @@ No cloud, no tracking — **your data stays with you.**
 ## 🧩 Project Structure
 
 ```
-├── expense-tracker.js   # Main CLI script
-├── README.md            # You're reading it!
+├── expen
 ```
-
----
-
-## ⚙️ Tech Stack
-
-* **Node.js** (no frameworks)
-* **File System (fs)** for data persistence
-* **CSV Export** support
-
----
-
-## 💪 Behind the Code
-
-This project was built with **dedication and persistence** — written entirely from scratch to strengthen Node.js fundamentals and command-line app design. Every feature, from budget warnings to category summaries, is handcrafted with care to make personal finance simple and empowering.
-
----
-
-## 🌟 Future Enhancements
-
-* [ ] SQLite backend option
-* [ ] Pretty CLI using chalk/commander
-* [ ] Cloud sync support
-* [ ] Dashboard web UI
-
----
-
-## 🧑‍💻 Author
-
-**Darshan Dhakal**
-📍 Passionate Developer | Learner | Builder
-If you like this project, don’t forget to ⭐ **star** the repo!
-
----
-
-### "Track your expenses. Master your money. Own your future."
