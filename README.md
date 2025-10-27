@@ -1,6 +1,7 @@
 # 💰 Expense Tracker CLI (Node.js)
 
 A **powerful and minimal command-line expense tracker** built with pure **Node.js**, designed to help you take control of your finances directly from the terminal. Add, update, delete, and analyze your expenses — no database setup, no external dependencies, just you and your budget.
+🔗 Project URL: https://github.com//expense-tracker-cli
 
 ---
 
