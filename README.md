@@ -2,8 +2,8 @@
 
 A **powerful and minimal command-line expense tracker** built with pure **Node.js**, designed to help you take control of your finances directly from the terminal. Add, update, delete, and analyze your expenses — no database setup, no external dependencies, just you and your budget.
 
-🔗 **GitHub Repository:** [https://github.com/darshan-dhakal/expense-tracker-cli](https://github.com/darshan-dhakal/expense-tracker)
-🌐 **Project Page:** [https://<your-username>.github.io/expense-tracker-cli](https://darshan-dhakal.github.io/expense-tracker)
+🔗 **GitHub Repository:** [https://github.com/darshan-dhakal/expense_tracker](https://github.com/darshan-dhakal/expense_tracker)
+🌐 **Project Page:** [https://darshan-dhakal.github.io/expense_tracker](https://darshan-dhakal.github.io/expense_tracker)
 
 ---
 
